@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="hello">Hello</string>
+    <string name="john">John</string>
+    <string name="search_elements">Search Elements...</string>
+    <string name="goals">Goals</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="comfort">Comfort</string>
+    <string name="trending">TRENDING</string>
+    <string name="lorem">Temporibus officiis blanditiis incidunt rerum quisquam unde sit. Suscipit fugiat aut minima. Ullam non excepturi incidunt nihil. Doloribus et consequuntur eum quo dolorum corrupti et tempora.</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
